@@ -9,7 +9,7 @@ footer {
 
     height: 120px;
 
-    background-color: blue;
+    background-color: rgb(31, 31, 119);
 
     color: white;
 }
@@ -35,6 +35,8 @@ ul {
     padding-left: 40px;
 
     font-size: 20px;
+
+    padding-bottom: 20px;
 }
 
 p {
@@ -48,7 +50,7 @@ p {
 
     margin: 40px auto;
 
-    border: 5px solid gray;
+    border: 5px solid rgb(31, 31, 119);
 
     box-shadow: 5px 10px #888888;
 }
